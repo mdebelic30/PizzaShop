@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.form{
+    width: 50%;
+    
+    
+}
+
+#navbar{
+
+    top: 0;
+    width: 100%;
+    display: inline;
+    background: white;
+    position: fixed;
+    z-index: 999;
+
+}
+
+#navbar ul li a:hover{
+
+    color: black;
+
+}
+
+.navbar-nav li{
+
+    padding: 0 10px;
+
+}
+
+
+
+.nav-link{
+
+    color: lightskyblue;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.logo{
+
+    width: 35%;
+    height: 35%;
+}
+
+#home{
+
+    background: url(https://images.unsplash.com/photo-1581873372796-635b67ca2008?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    
+    
+}
+
+.text{
+
+    text-align: left;
+    color: white;
+    font-size: large;
+    text-align: left;
+    
+    
+}
+
+#aboutus{
+
+    background-color: beige;
+    padding-bottom: 10%;
+}
+
+.aboutus{
+
+    padding-top: 3%;
+    
+}
+
+.about{
+
+    color: black;
+    padding-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.line{
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float: top;
+    height: 2px;
+    background-color: lightgreen;
+}
+
+#pizzas{
+
+    background-color: lightgrey;
+}
+
+.pizzaType{
+
+    padding-top: 3%;
+}
+
+.container-one{
+
+    padding-top: 3%;
+    padding-bottom: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.cardImg{
+
+    height: 40vh;
+    object-fit: cover;
+    
+    
+}
+
+#form-pizza{
+
+    
+    background-color: beige;
+      
+}
+
+
+.container-item{
+
+   
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.container select{
+    width: 100%;
+}
+
+
+.div-pizaTxt{
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#form-pizza{
+
+    background-color: beige;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    
+    
+
+}
+
+.pizza-img{
+
+    
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+}
+
+.order{
+
+    text-align: center;
+    padding-top: 3%;
+}
+
+#form-pizza-name{
+
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.button{
+    margin-left: 2%;
+}
+
+.display{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
